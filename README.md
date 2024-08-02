@@ -1,10 +1,8 @@
 # ☯️ l3ster's GitHub Sanctuary 
 
-♾️ Hello, world! I'm Abner, better known as l3ster. Since I was a kid I find myself deeply entrenched in the fascinating world of cybersecurity. As a hacker, pentester and Red Team, my days are spent navigating the intricate labyrinths of IoT hacking and delving into the meticulous art of malware analysis. But, my interests are not confined to the binary; I am also an avid lover of philosophy and the timeless wisdom found within the pages of books.
+♾️ Hello, world! I'm Abner, better known as l3ster. Since I was a kid I find myself deeply entrenched in the fascinating world of cybersecurity. As a hacker, pentester and Red Team, my days are fully dedicated in Web Hacking and malware analysis. I am also an avid lover of philosophy and the timeless wisdom found within the pages of books.
 
-So, welcome to my temple. Let's embark on this journey together, sharing knowledge, solving puzzles, and, most importantly, growing as a community.
-
-Stay curious, stay passionate, and never stop learning.
+So, welcome to my temple. Stay curious, stay passionate, and never stop learning.
 
 - l3ster
 
