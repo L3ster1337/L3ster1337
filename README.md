@@ -1,4 +1,4 @@
-# ☯️ Hey yo
+# ☯️ Hey Yo!
 
 Welcome to my temple. Stay curious, stay passionate, and never stop learning.
 
